@@ -1,0 +1,21 @@
+store_id,store_name,city,region,store_type,open_date,sq_footage,manager
+S01,Narayanganj Branch 1,Dhaka,North,Express,2016-12-09,4150,Manager_1
+S02,Khulna Branch 2,Khulna,North,Express,2019-12-19,3129,Manager_2
+S03,Comilla Branch 3,Chittagong,West,Standard,2018-01-11,2816,Manager_3
+S04,Dhaka Branch 4,Barisal,Central,Express,2017-07-01,4487,Manager_4
+S05,Dhaka Branch 5,Rajshahi,South,Standard,2017-11-18,1174,Manager_5
+S06,Chittagong Branch 6,Sylhet,Central,Express,2015-01-16,1036,Manager_6
+S07,Khulna Branch 7,Khulna,West,Flagship,2016-02-26,4905,Manager_7
+S08,Comilla Branch 8,Chittagong,South,Flagship,2017-07-29,3217,Manager_8
+S09,Dhaka Branch 9,Chittagong,North,Flagship,2015-12-31,2563,Manager_9
+S10,Chittagong Branch 10,Khulna,East,Standard,2017-03-05,4195,Manager_10
+S11,Comilla Branch 11,Comilla,East,Flagship,2017-03-08,1469,Manager_11
+S12,Dhaka Branch 12,Chittagong,Central,Flagship,2018-12-06,1094,Manager_12
+S13,Barisal Branch 13,Chittagong,East,Express,2016-09-09,1208,Manager_13
+S14,Rajshahi Branch 14,Narayanganj,West,Standard,2019-08-11,752,Manager_14
+S15,Narayanganj Branch 15,Sylhet,Central,Flagship,2015-10-07,3703,Manager_15
+S16,Rajshahi Branch 16,Sylhet,East,Express,2019-12-22,3556,Manager_16
+S17,Dhaka Branch 17,Sylhet,North,Flagship,2015-01-11,3728,Manager_17
+S18,Chittagong Branch 18,Rajshahi,South,Express,2019-02-27,3316,Manager_18
+S19,Khulna Branch 19,Comilla,Central,Flagship,2015-11-26,2007,Manager_19
+S20,Khulna Branch 20,Rajshahi,South,Flagship,2016-01-07,945,Manager_20

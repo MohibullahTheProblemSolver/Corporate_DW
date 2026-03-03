@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,gender,age,city,segment,registration_date,email,loyalty_score
+C0001,Fatima,Ahmed,Female,37,Khulna,Consumer,2021-10-16,customer1@email.com,7.6
+C0002,Bristy,Khan,Female,24,Dhaka,Corporate,2021-11-23,customer2@email.com,3.0
+C0003,Mehrin,Ahmed,Male,63,Comilla,Consumer,2021-06-01,customer3@email.com,5.0
+C0004,Rahim,Islam,Female,43,Rajshahi,Consumer,2020-10-11,customer4@email.com,2.9
+C0005,Fatima,Khan,Female,28,Barisal,Small Business,2020-12-10,customer5@email.com,6.4
+C0006,Babu,Uddin,Male,46,Chittagong,Small Business,2020-02-14,customer6@email.com,8.5
+C0007,Mitu,Akter,Male,26,Dhaka,Consumer,2021-09-25,customer7@email.com,8.0
+C0008,Tania,Khan,Female,39,Narayanganj,Small Business,2020-03-22,customer8@email.com,2.5
+C0009,Imran,Begum,Male,60,Sylhet,Consumer,2020-12-29,customer9@email.com,2.5
+C0010,Hasan,Uddin,Male,65,Barisal,Corporate,2021-01-23,customer10@email.com,3.1
+C0011,Rafi,Rahman,Female,26,Khulna,Small Business,2020-02-02,customer11@email.com,2.9
+C0012,Zahir,Ali,Male,38,Sylhet,Consumer,2021-05-26,customer12@email.com,7.7
+C0013,Hasan,Akter,Female,59,Comilla,Small Business,2021-07-05,customer13@email.com,3.0
+C0014,Pavel,Ali,Male,25,Chittagong,Consumer,2020-05-21,customer14@email.com,6.6
+C0015,Riya,Akter,Male,46,Comilla,Government,2021-11-27,customer15@email.com,5.8
+C0016,Rahim,Khan,Female,63,Barisal,Corporate,2021-07-20,customer16@email.com,3.6
+C0017,Babu,Ahmed,Female,54,Sylhet,Corporate,2020-06-10,customer17@email.com,8.8
+C0018,Pavel,Akter,Male,31,Barisal,Consumer,2020-11-01,customer18@email.com,5.9
+C0019,Rahim,Akter,Female,53,Dhaka,Corporate,2021-06-27,customer19@email.com,9.4
+C0020,Tania,Ahmed,Male,58,Chittagong,Corporate,2020-11-10,customer20@email.com,7.6
+C0021,Bristy,Islam,Male,64,Narayanganj,Consumer,2020-03-11,customer21@email.com,3.4
+C0022,Riya,Hossain,Male,41,Comilla,Small Business,2021-09-13,customer22@email.com,4.9
+C0023,Babu,Khan,Male,36,Chittagong,Small Business,2021-06-13,customer23@email.com,1.2
+C0024,Tania,Akter,Male,22,Chittagong,Corporate,2021-07-21,customer24@email.com,3.1
+C0025,Rafi,Khan,Male,39,Narayanganj,Consumer,2020-02-02,customer25@email.com,5.9
+C0026,Shakib,Ali,Male,52,Comilla,Consumer,2021-08-07,customer26@email.com,1.8
+C0027,Riya,Chowdhury,Female,48,Narayanganj,Corporate,2021-11-05,customer27@email.com,7.1
+C0028,Fatima,Ahmed,Female,43,Chittagong,Consumer,2021-10-23,customer28@email.com,2.7
+C0029,Babu,Islam,Female,33,Rajshahi,Government,2021-07-03,customer29@email.com,3.2
+C0030,Babu,Uddin,Male,25,Dhaka,Corporate,2020-03-18,customer30@email.com,9.3
+C0031,Sumaiya,Rahman,Female,52,Khulna,Government,2020-08-30,customer31@email.com,9.1
+C0032,Zahir,Ahmed,Female,38,Narayanganj,Small Business,2020-06-17,customer32@email.com,4.8
+C0033,Nasrin,Islam,Male,40,Khulna,Corporate,2021-07-23,customer33@email.com,6.2
+C0034,Karim,Chowdhury,Male,25,Narayanganj,Consumer,2021-07-09,customer34@email.com,1.5
+C0035,Nusrat,Islam,Male,60,Chittagong,Consumer,2021-06-04,customer35@email.com,4.6
+C0036,Tania,Akter,Male,61,Chittagong,Government,2021-08-06,customer36@email.com,6.9
+C0037,Pavel,Chowdhury,Female,35,Barisal,Consumer,2021-08-01,customer37@email.com,3.4
+C0038,Sadia,Ali,Female,26,Dhaka,Government,2020-05-14,customer38@email.com,6.6
+C0039,Fatima,Khan,Male,54,Rajshahi,Consumer,2021-07-30,customer39@email.com,9.4
+C0040,Tania,Chowdhury,Female,32,Narayanganj,Small Business,2020-03-11,customer40@email.com,6.5
+C0041,Pavel,Ahmed,Female,64,Chittagong,Consumer,2021-10-31,customer41@email.com,3.4
+C0042,Bristy,Islam,Female,40,Khulna,Small Business,2020-04-19,customer42@email.com,2.8
+C0043,Hasan,Uddin,Female,38,Dhaka,Corporate,2021-10-11,customer43@email.com,6.7
+C0044,Karim,Ahmed,Female,30,Rajshahi,Consumer,2020-10-10,customer44@email.com,7.7
+C0045,Riya,Uddin,Male,29,Chittagong,Consumer,2021-07-18,customer45@email.com,5.9
+C0046,Shakib,Uddin,Male,49,Sylhet,Corporate,2021-01-13,customer46@email.com,3.8
+C0047,Mitu,Hossain,Male,64,Chittagong,Small Business,2020-02-10,customer47@email.com,8.0
+C0048,Mehrin,Islam,Male,32,Sylhet,Government,2021-02-20,customer48@email.com,1.2
+C0049,Riya,Hossain,Female,32,Chittagong,Government,2020-12-06,customer49@email.com,8.8
+C0050,Tania,Hossain,Female,44,Rajshahi,Consumer,2021-04-26,customer50@email.com,3.0
+C0051,Imran,Rahman,Female,39,Chittagong,Small Business,2021-11-06,customer51@email.com,4.2
+C0052,Zahir,Uddin,Female,23,Chittagong,Small Business,2021-06-05,customer52@email.com,2.6
+C0053,Karim,Khan,Female,44,Barisal,Government,2020-09-28,customer53@email.com,6.5
+C0054,Fatima,Rahman,Male,38,Dhaka,Government,2021-06-07,customer54@email.com,1.0
+C0055,Imran,Chowdhury,Female,26,Barisal,Small Business,2021-07-05,customer55@email.com,7.0
+C0056,Sadia,Uddin,Female,64,Comilla,Small Business,2020-05-07,customer56@email.com,4.6
+C0057,Bristy,Islam,Male,48,Comilla,Consumer,2020-10-29,customer57@email.com,6.5
+C0058,Zahir,Uddin,Male,41,Rajshahi,Consumer,2020-11-04,customer58@email.com,4.9
+C0059,Mehrin,Chowdhury,Female,50,Narayanganj,Consumer,2021-08-16,customer59@email.com,5.6
+C0060,Nusrat,Begum,Female,27,Khulna,Small Business,2020-06-22,customer60@email.com,3.0
+C0061,Arif,Ahmed,Male,37,Narayanganj,Corporate,2020-07-22,customer61@email.com,5.1
+C0062,Shakib,Hossain,Female,53,Comilla,Consumer,2021-10-06,customer62@email.com,2.3
+C0063,Rahim,Khan,Female,36,Sylhet,Government,2021-12-05,customer63@email.com,1.5
+C0064,Fatima,Ali,Male,51,Barisal,Government,2020-09-12,customer64@email.com,6.5
+C0065,Riya,Uddin,Female,32,Narayanganj,Government,2021-05-31,customer65@email.com,3.3
+C0066,Hasan,Uddin,Female,62,Khulna,Small Business,2020-09-10,customer66@email.com,5.0
+C0067,Sadia,Hossain,Female,43,Barisal,Corporate,2021-12-31,customer67@email.com,2.2
+C0068,Zahir,Islam,Male,26,Comilla,Government,2020-08-24,customer68@email.com,4.0
+C0069,Riya,Ahmed,Male,48,Comilla,Corporate,2021-04-22,customer69@email.com,8.7
+C0070,Zahir,Ali,Male,44,Rajshahi,Government,2021-08-12,customer70@email.com,8.7
+C0071,Bristy,Uddin,Male,53,Khulna,Small Business,2021-03-05,customer71@email.com,4.9
+C0072,Zahir,Chowdhury,Female,32,Narayanganj,Consumer,2020-01-30,customer72@email.com,9.8
+C0073,Rahim,Rahman,Male,27,Comilla,Consumer,2021-06-30,customer73@email.com,8.8
+C0074,Karim,Begum,Female,42,Khulna,Government,2020-07-05,customer74@email.com,3.9
+C0075,Hasan,Rahman,Female,27,Narayanganj,Corporate,2021-01-23,customer75@email.com,7.7
+C0076,Mitu,Hossain,Male,63,Dhaka,Corporate,2020-02-23,customer76@email.com,9.5
+C0077,Rahim,Akter,Male,37,Sylhet,Government,2020-07-23,customer77@email.com,7.0
+C0078,Imran,Ali,Female,45,Sylhet,Corporate,2021-07-31,customer78@email.com,8.0
+C0079,Sadia,Khan,Male,41,Comilla,Government,2020-06-16,customer79@email.com,9.5
+C0080,Nusrat,Akter,Male,28,Rajshahi,Corporate,2020-07-22,customer80@email.com,8.2
+C0081,Karim,Chowdhury,Female,64,Barisal,Corporate,2021-08-02,customer81@email.com,5.6
+C0082,Rahim,Rahman,Female,28,Comilla,Small Business,2020-12-15,customer82@email.com,6.7
+C0083,Arif,Rahman,Male,55,Rajshahi,Government,2021-04-15,customer83@email.com,5.2
+C0084,Hasan,Chowdhury,Male,27,Rajshahi,Government,2021-08-29,customer84@email.com,3.2
+C0085,Shakib,Akter,Female,43,Dhaka,Government,2021-04-20,customer85@email.com,8.7
+C0086,Nasrin,Hossain,Female,38,Barisal,Small Business,2020-07-05,customer86@email.com,8.9
+C0087,Hasan,Uddin,Male,55,Khulna,Corporate,2021-12-19,customer87@email.com,3.2
+C0088,Nasrin,Uddin,Male,52,Narayanganj,Government,2021-02-20,customer88@email.com,8.1
+C0089,Sadia,Hossain,Female,37,Rajshahi,Small Business,2020-04-05,customer89@email.com,5.3
+C0090,Mitu,Rahman,Female,44,Narayanganj,Small Business,2021-06-27,customer90@email.com,3.8
+C0091,Fatima,Hossain,Female,29,Sylhet,Consumer,2020-08-24,customer91@email.com,2.9
+C0092,Hasan,Akter,Female,28,Khulna,Small Business,2021-05-10,customer92@email.com,3.0
+C0093,Sadia,Ahmed,Male,39,Dhaka,Corporate,2020-07-02,customer93@email.com,6.0
+C0094,Arif,Ali,Male,22,Rajshahi,Government,2021-12-15,customer94@email.com,5.3
+C0095,Sumaiya,Ahmed,Female,52,Chittagong,Corporate,2020-12-14,customer95@email.com,4.6
+C0096,Shakib,Ahmed,Male,31,Rajshahi,Corporate,2020-03-16,customer96@email.com,9.9
+C0097,Bristy,Rahman,Male,55,Comilla,Government,2020-05-01,customer97@email.com,9.2
+C0098,Shakib,Rahman,Female,58,Dhaka,Corporate,2020-10-31,customer98@email.com,9.5
+C0099,Imran,Begum,Male,32,Khulna,Consumer,2020-07-31,customer99@email.com,6.0
+C0100,Rahim,Rahman,Female,60,Narayanganj,Small Business,2020-06-09,customer100@email.com,1.3
+C0101,Sadia,Ali,Male,65,Khulna,Small Business,2020-10-22,customer101@email.com,8.1
+C0102,Shakib,Hossain,Female,29,Khulna,Consumer,2021-10-02,customer102@email.com,9.2
+C0103,Nusrat,Ahmed,Male,41,Rajshahi,Government,2020-05-25,customer103@email.com,2.1
+C0104,Sadia,Rahman,Female,54,Narayanganj,Government,2021-12-06,customer104@email.com,1.7
+C0105,Riya,Chowdhury,Female,23,Chittagong,Consumer,2020-02-10,customer105@email.com,9.7
+C0106,Shakib,Ahmed,Female,58,Dhaka,Consumer,2021-08-12,customer106@email.com,5.2
+C0107,Babu,Begum,Male,59,Comilla,Government,2021-10-29,customer107@email.com,9.7
+C0108,Mitu,Rahman,Female,42,Chittagong,Consumer,2021-04-26,customer108@email.com,4.0
+C0109,Nasrin,Begum,Female,57,Dhaka,Government,2021-12-11,customer109@email.com,1.8
+C0110,Rafi,Khan,Female,54,Dhaka,Government,2020-09-15,customer110@email.com,4.7
+C0111,Pavel,Chowdhury,Female,62,Narayanganj,Corporate,2020-07-11,customer111@email.com,2.8
+C0112,Arif,Begum,Female,53,Chittagong,Corporate,2021-07-16,customer112@email.com,9.8
+C0113,Tania,Islam,Female,57,Dhaka,Government,2021-09-15,customer113@email.com,1.8
+C0114,Babu,Khan,Male,53,Rajshahi,Small Business,2020-04-26,customer114@email.com,4.7
+C0115,Nasrin,Hossain,Female,57,Sylhet,Government,2021-05-09,customer115@email.com,2.7
+C0116,Pavel,Islam,Male,39,Comilla,Small Business,2021-09-05,customer116@email.com,9.4
+C0117,Hasan,Ahmed,Female,41,Narayanganj,Consumer,2021-06-03,customer117@email.com,5.0
+C0118,Mitu,Chowdhury,Female,51,Barisal,Consumer,2021-05-10,customer118@email.com,9.8
+C0119,Shakib,Rahman,Male,48,Dhaka,Small Business,2020-09-01,customer119@email.com,7.7
+C0120,Zahir,Rahman,Male,53,Dhaka,Consumer,2021-12-23,customer120@email.com,5.5
+C0121,Rafi,Khan,Female,28,Narayanganj,Corporate,2021-08-27,customer121@email.com,7.5
+C0122,Arif,Khan,Female,38,Barisal,Government,2021-02-23,customer122@email.com,6.8
+C0123,Bristy,Rahman,Female,62,Narayanganj,Corporate,2020-12-02,customer123@email.com,6.6
+C0124,Sadia,Hossain,Male,49,Chittagong,Corporate,2020-08-28,customer124@email.com,5.0
+C0125,Sadia,Ahmed,Male,42,Dhaka,Small Business,2021-12-11,customer125@email.com,4.2
+C0126,Arif,Hossain,Female,58,Sylhet,Consumer,2021-03-17,customer126@email.com,2.6
+C0127,Zahir,Akter,Male,53,Sylhet,Consumer,2021-09-16,customer127@email.com,5.2
+C0128,Babu,Begum,Male,51,Rajshahi,Consumer,2020-09-17,customer128@email.com,1.7
+C0129,Shakib,Begum,Female,38,Narayanganj,Small Business,2020-12-19,customer129@email.com,2.8
+C0130,Nasrin,Khan,Male,46,Barisal,Small Business,2021-01-28,customer130@email.com,9.9
+C0131,Rahim,Rahman,Female,22,Dhaka,Government,2020-10-29,customer131@email.com,8.5
+C0132,Tania,Akter,Female,36,Khulna,Small Business,2020-10-20,customer132@email.com,7.1
+C0133,Arif,Khan,Male,41,Narayanganj,Corporate,2021-11-06,customer133@email.com,6.2
+C0134,Nusrat,Begum,Female,48,Sylhet,Consumer,2020-05-14,customer134@email.com,2.2
+C0135,Mitu,Uddin,Female,32,Rajshahi,Government,2021-07-06,customer135@email.com,9.7
+C0136,Rafi,Khan,Female,26,Sylhet,Consumer,2020-10-29,customer136@email.com,8.7
+C0137,Zahir,Uddin,Female,27,Comilla,Corporate,2021-11-21,customer137@email.com,3.4
+C0138,Babu,Chowdhury,Female,59,Comilla,Small Business,2020-05-06,customer138@email.com,2.0
+C0139,Nasrin,Ahmed,Female,61,Khulna,Corporate,2020-08-27,customer139@email.com,6.7
+C0140,Sadia,Rahman,Male,30,Dhaka,Corporate,2021-04-20,customer140@email.com,3.7
+C0141,Fatima,Khan,Male,56,Sylhet,Government,2021-05-19,customer141@email.com,5.1
+C0142,Bristy,Rahman,Male,48,Chittagong,Government,2021-11-17,customer142@email.com,6.5
+C0143,Karim,Chowdhury,Male,50,Narayanganj,Consumer,2020-10-13,customer143@email.com,8.7
+C0144,Mitu,Uddin,Female,25,Comilla,Small Business,2020-04-11,customer144@email.com,2.7
+C0145,Babu,Khan,Male,63,Dhaka,Corporate,2020-05-05,customer145@email.com,8.1
+C0146,Arif,Akter,Male,26,Khulna,Consumer,2020-09-06,customer146@email.com,8.3
+C0147,Rafi,Islam,Male,39,Sylhet,Consumer,2020-08-26,customer147@email.com,5.9
+C0148,Fatima,Ahmed,Male,22,Barisal,Consumer,2020-06-27,customer148@email.com,6.3
+C0149,Sumaiya,Begum,Male,30,Comilla,Corporate,2020-01-17,customer149@email.com,7.7
+C0150,Babu,Chowdhury,Male,50,Khulna,Corporate,2021-05-02,customer150@email.com,7.5
+C0151,Pavel,Begum,Female,63,Dhaka,Corporate,2021-11-05,customer151@email.com,10.0
+C0152,Riya,Khan,Female,50,Chittagong,Corporate,2021-02-15,customer152@email.com,3.9
+C0153,Nusrat,Islam,Female,61,Barisal,Government,2020-05-31,customer153@email.com,10.0
+C0154,Sadia,Ali,Female,28,Chittagong,Consumer,2021-06-27,customer154@email.com,4.9
+C0155,Riya,Chowdhury,Female,47,Comilla,Corporate,2020-08-21,customer155@email.com,3.8
+C0156,Hasan,Chowdhury,Male,65,Narayanganj,Corporate,2020-11-16,customer156@email.com,1.8
+C0157,Nusrat,Rahman,Male,45,Sylhet,Corporate,2020-03-28,customer157@email.com,6.3
+C0158,Bristy,Chowdhury,Male,48,Barisal,Government,2021-07-29,customer158@email.com,8.8
+C0159,Sadia,Akter,Female,44,Chittagong,Consumer,2020-02-22,customer159@email.com,2.4
+C0160,Tania,Khan,Female,57,Barisal,Corporate,2021-05-08,customer160@email.com,7.9
+C0161,Tania,Rahman,Male,60,Rajshahi,Corporate,2021-08-10,customer161@email.com,2.6
+C0162,Sadia,Chowdhury,Female,22,Sylhet,Consumer,2021-12-20,customer162@email.com,6.1
+C0163,Nusrat,Islam,Male,27,Khulna,Government,2021-02-14,customer163@email.com,4.8
+C0164,Sumaiya,Chowdhury,Female,42,Chittagong,Corporate,2020-12-15,customer164@email.com,2.4
+C0165,Karim,Khan,Female,50,Comilla,Government,2021-09-24,customer165@email.com,6.5
+C0166,Hasan,Hossain,Male,44,Comilla,Corporate,2021-02-28,customer166@email.com,3.5
+C0167,Shakib,Ali,Female,24,Khulna,Government,2021-11-25,customer167@email.com,9.9
+C0168,Rahim,Hossain,Female,35,Sylhet,Small Business,2020-02-26,customer168@email.com,3.6
+C0169,Rahim,Ali,Female,33,Sylhet,Government,2020-05-02,customer169@email.com,5.8
+C0170,Pavel,Uddin,Female,26,Comilla,Corporate,2020-08-23,customer170@email.com,4.9
+C0171,Nusrat,Chowdhury,Female,58,Comilla,Government,2021-04-15,customer171@email.com,3.6
+C0172,Rahim,Chowdhury,Male,61,Narayanganj,Small Business,2021-02-18,customer172@email.com,1.8
+C0173,Tania,Rahman,Female,55,Chittagong,Government,2020-04-18,customer173@email.com,8.8
+C0174,Tania,Chowdhury,Male,26,Chittagong,Consumer,2020-12-13,customer174@email.com,9.2
+C0175,Mitu,Islam,Male,28,Sylhet,Small Business,2020-12-23,customer175@email.com,2.8
+C0176,Arif,Khan,Male,62,Narayanganj,Government,2021-09-08,customer176@email.com,7.8
+C0177,Babu,Akter,Female,62,Barisal,Consumer,2021-08-16,customer177@email.com,5.0
+C0178,Babu,Begum,Female,59,Dhaka,Small Business,2021-04-25,customer178@email.com,5.6
+C0179,Babu,Ali,Male,25,Barisal,Small Business,2020-11-13,customer179@email.com,1.7
+C0180,Mehrin,Akter,Female,51,Dhaka,Government,2020-04-02,customer180@email.com,9.2
+C0181,Imran,Chowdhury,Female,54,Sylhet,Corporate,2021-08-08,customer181@email.com,5.1
+C0182,Nusrat,Uddin,Male,24,Khulna,Government,2020-12-17,customer182@email.com,9.9
+C0183,Pavel,Akter,Male,45,Barisal,Small Business,2021-06-20,customer183@email.com,4.5
+C0184,Mehrin,Ahmed,Female,26,Barisal,Corporate,2020-12-12,customer184@email.com,6.0
+C0185,Sadia,Begum,Male,43,Chittagong,Consumer,2021-01-30,customer185@email.com,9.3
+C0186,Zahir,Islam,Male,41,Comilla,Small Business,2020-11-13,customer186@email.com,8.3
+C0187,Pavel,Khan,Female,54,Barisal,Corporate,2021-11-17,customer187@email.com,4.3
+C0188,Imran,Chowdhury,Female,34,Khulna,Consumer,2020-07-03,customer188@email.com,2.4
+C0189,Fatima,Uddin,Male,64,Barisal,Consumer,2020-10-29,customer189@email.com,6.4
+C0190,Sumaiya,Islam,Male,50,Dhaka,Government,2020-06-06,customer190@email.com,4.3
+C0191,Babu,Akter,Female,50,Khulna,Consumer,2020-08-31,customer191@email.com,3.8
+C0192,Imran,Chowdhury,Female,51,Rajshahi,Government,2021-04-25,customer192@email.com,5.5
+C0193,Sumaiya,Hossain,Male,38,Dhaka,Government,2021-03-04,customer193@email.com,8.9
+C0194,Fatima,Uddin,Male,40,Chittagong,Consumer,2021-07-21,customer194@email.com,3.5
+C0195,Arif,Rahman,Male,36,Narayanganj,Small Business,2021-06-09,customer195@email.com,9.4
+C0196,Karim,Rahman,Female,37,Comilla,Corporate,2021-02-28,customer196@email.com,4.4
+C0197,Rafi,Khan,Female,31,Sylhet,Corporate,2020-01-29,customer197@email.com,3.6
+C0198,Arif,Ali,Female,61,Dhaka,Corporate,2021-04-28,customer198@email.com,1.2
+C0199,Arif,Uddin,Female,29,Rajshahi,Consumer,2020-08-08,customer199@email.com,3.7
+C0200,Tania,Rahman,Female,26,Chittagong,Government,2020-02-18,customer200@email.com,6.4
+C0201,Pavel,Akter,Male,31,Rajshahi,Government,2020-01-17,customer201@email.com,1.0
+C0202,Tania,Akter,Female,33,Chittagong,Small Business,2020-12-27,customer202@email.com,1.6
+C0203,Bristy,Uddin,Male,46,Narayanganj,Corporate,2021-06-22,customer203@email.com,6.7
+C0204,Hasan,Ahmed,Female,26,Barisal,Consumer,2021-01-17,customer204@email.com,7.6
+C0205,Fatima,Akter,Female,30,Dhaka,Small Business,2021-10-05,customer205@email.com,5.9
+C0206,Sumaiya,Ali,Female,62,Sylhet,Consumer,2021-10-20,customer206@email.com,1.6
+C0207,Karim,Begum,Male,24,Khulna,Corporate,2021-04-13,customer207@email.com,3.8
+C0208,Pavel,Rahman,Female,38,Dhaka,Consumer,2020-11-13,customer208@email.com,3.6
+C0209,Rafi,Begum,Male,45,Comilla,Government,2020-02-18,customer209@email.com,7.7
+C0210,Rafi,Islam,Female,53,Barisal,Small Business,2021-01-30,customer210@email.com,8.2
+C0211,Nusrat,Rahman,Male,56,Rajshahi,Small Business,2021-03-10,customer211@email.com,1.9
+C0212,Sadia,Begum,Female,60,Comilla,Consumer,2020-12-01,customer212@email.com,7.2
+C0213,Babu,Ahmed,Female,61,Comilla,Small Business,2020-12-25,customer213@email.com,6.8
+C0214,Nusrat,Rahman,Female,54,Sylhet,Corporate,2020-02-28,customer214@email.com,2.3
+C0215,Babu,Ahmed,Male,26,Khulna,Small Business,2021-09-14,customer215@email.com,4.3
+C0216,Karim,Akter,Male,65,Narayanganj,Small Business,2021-08-03,customer216@email.com,4.3
+C0217,Shakib,Islam,Female,47,Barisal,Small Business,2020-03-19,customer217@email.com,3.2
+C0218,Rahim,Islam,Female,55,Comilla,Corporate,2020-04-26,customer218@email.com,3.4
+C0219,Babu,Hossain,Female,53,Khulna,Corporate,2020-09-23,customer219@email.com,2.2
+C0220,Babu,Islam,Female,27,Barisal,Small Business,2020-03-16,customer220@email.com,7.4
+C0221,Bristy,Begum,Female,32,Sylhet,Small Business,2021-07-17,customer221@email.com,5.6
+C0222,Imran,Islam,Male,53,Dhaka,Small Business,2020-05-04,customer222@email.com,6.0
+C0223,Babu,Uddin,Male,61,Chittagong,Corporate,2021-01-12,customer223@email.com,3.8
+C0224,Pavel,Rahman,Female,58,Chittagong,Consumer,2021-05-05,customer224@email.com,9.8
+C0225,Nusrat,Ali,Female,65,Barisal,Consumer,2021-10-19,customer225@email.com,8.9
+C0226,Shakib,Islam,Male,49,Dhaka,Corporate,2021-07-18,customer226@email.com,5.7
+C0227,Sumaiya,Islam,Female,36,Barisal,Small Business,2020-11-07,customer227@email.com,8.6
+C0228,Imran,Uddin,Female,30,Rajshahi,Corporate,2020-09-13,customer228@email.com,5.5
+C0229,Shakib,Akter,Male,32,Barisal,Corporate,2020-06-21,customer229@email.com,8.4
+C0230,Nusrat,Ahmed,Female,63,Khulna,Government,2020-01-30,customer230@email.com,6.6
+C0231,Nasrin,Uddin,Female,63,Rajshahi,Government,2020-02-01,customer231@email.com,3.2
+C0232,Zahir,Begum,Female,26,Dhaka,Consumer,2021-12-02,customer232@email.com,5.0
+C0233,Babu,Hossain,Female,60,Sylhet,Small Business,2021-05-10,customer233@email.com,8.8
+C0234,Mitu,Rahman,Male,45,Chittagong,Small Business,2020-11-22,customer234@email.com,3.2
+C0235,Hasan,Ali,Male,31,Chittagong,Corporate,2020-05-05,customer235@email.com,3.6
+C0236,Mehrin,Rahman,Male,32,Barisal,Small Business,2021-01-28,customer236@email.com,2.7
+C0237,Nasrin,Uddin,Female,53,Rajshahi,Government,2020-06-12,customer237@email.com,1.2
+C0238,Pavel,Ali,Male,35,Barisal,Corporate,2021-02-06,customer238@email.com,1.5
+C0239,Mehrin,Ali,Female,56,Dhaka,Corporate,2021-05-21,customer239@email.com,4.9
+C0240,Mitu,Rahman,Female,24,Comilla,Corporate,2020-09-27,customer240@email.com,6.1
+C0241,Mitu,Uddin,Female,26,Comilla,Government,2020-07-18,customer241@email.com,7.9
+C0242,Mehrin,Akter,Male,30,Chittagong,Government,2020-10-13,customer242@email.com,4.4
+C0243,Bristy,Chowdhury,Male,34,Comilla,Corporate,2020-12-13,customer243@email.com,1.4
+C0244,Rafi,Ali,Female,31,Sylhet,Small Business,2020-05-20,customer244@email.com,9.4
+C0245,Sumaiya,Rahman,Female,59,Barisal,Government,2020-11-22,customer245@email.com,7.4
+C0246,Nasrin,Ahmed,Female,43,Chittagong,Government,2020-11-02,customer246@email.com,6.3
+C0247,Rahim,Akter,Female,38,Khulna,Corporate,2021-12-05,customer247@email.com,6.3
+C0248,Pavel,Akter,Female,31,Khulna,Corporate,2020-06-23,customer248@email.com,6.2
+C0249,Fatima,Hossain,Male,50,Barisal,Government,2021-12-18,customer249@email.com,2.4
+C0250,Imran,Rahman,Female,25,Sylhet,Consumer,2021-12-08,customer250@email.com,6.0
+C0251,Nasrin,Uddin,Female,42,Sylhet,Government,2021-11-09,customer251@email.com,9.2
+C0252,Bristy,Chowdhury,Female,61,Narayanganj,Consumer,2020-12-16,customer252@email.com,9.6
+C0253,Bristy,Begum,Male,41,Rajshahi,Consumer,2020-10-12,customer253@email.com,7.2
+C0254,Rafi,Ali,Female,57,Rajshahi,Small Business,2021-05-15,customer254@email.com,2.1
+C0255,Bristy,Rahman,Female,44,Sylhet,Small Business,2021-11-23,customer255@email.com,1.4
+C0256,Mitu,Ali,Female,52,Khulna,Consumer,2020-03-21,customer256@email.com,8.5
+C0257,Bristy,Begum,Male,28,Khulna,Consumer,2020-10-04,customer257@email.com,1.5
+C0258,Tania,Hossain,Male,28,Comilla,Small Business,2021-06-27,customer258@email.com,7.5
+C0259,Arif,Ahmed,Male,48,Narayanganj,Government,2020-04-12,customer259@email.com,6.9
+C0260,Rafi,Begum,Male,27,Khulna,Corporate,2020-10-21,customer260@email.com,9.2
+C0261,Riya,Islam,Male,47,Narayanganj,Consumer,2020-06-28,customer261@email.com,9.4
+C0262,Karim,Ahmed,Female,58,Chittagong,Small Business,2020-10-23,customer262@email.com,3.6
+C0263,Bristy,Uddin,Female,30,Narayanganj,Small Business,2021-10-18,customer263@email.com,2.7
+C0264,Rafi,Islam,Female,63,Rajshahi,Consumer,2020-04-25,customer264@email.com,1.1
+C0265,Sadia,Akter,Male,33,Comilla,Government,2020-12-11,customer265@email.com,5.6
+C0266,Zahir,Khan,Male,30,Narayanganj,Small Business,2020-03-29,customer266@email.com,9.4
+C0267,Hasan,Rahman,Male,50,Rajshahi,Small Business,2020-01-07,customer267@email.com,3.7
+C0268,Rahim,Begum,Female,37,Dhaka,Corporate,2021-08-09,customer268@email.com,5.2
+C0269,Zahir,Uddin,Female,29,Rajshahi,Small Business,2020-06-12,customer269@email.com,6.5
+C0270,Arif,Ali,Male,51,Barisal,Government,2020-08-12,customer270@email.com,7.3
+C0271,Bristy,Hossain,Male,65,Chittagong,Government,2021-04-27,customer271@email.com,5.8
+C0272,Nusrat,Akter,Male,25,Khulna,Consumer,2021-01-05,customer272@email.com,2.5
+C0273,Babu,Khan,Male,59,Narayanganj,Corporate,2021-06-16,customer273@email.com,9.1
+C0274,Karim,Ali,Male,54,Comilla,Government,2021-04-01,customer274@email.com,6.1
+C0275,Babu,Begum,Male,47,Rajshahi,Corporate,2021-07-26,customer275@email.com,7.7
+C0276,Nusrat,Ahmed,Female,44,Chittagong,Corporate,2021-08-15,customer276@email.com,9.4
+C0277,Nasrin,Ahmed,Female,48,Sylhet,Consumer,2020-03-11,customer277@email.com,7.9
+C0278,Riya,Chowdhury,Female,50,Comilla,Government,2021-10-23,customer278@email.com,1.7
+C0279,Bristy,Islam,Female,29,Sylhet,Government,2021-11-08,customer279@email.com,5.8
+C0280,Rahim,Ahmed,Female,51,Comilla,Government,2020-08-16,customer280@email.com,8.4
+C0281,Babu,Chowdhury,Male,39,Khulna,Corporate,2020-09-10,customer281@email.com,1.3
+C0282,Riya,Akter,Male,37,Khulna,Corporate,2021-11-07,customer282@email.com,1.9
+C0283,Babu,Akter,Male,37,Dhaka,Government,2020-02-04,customer283@email.com,5.0
+C0284,Imran,Ahmed,Male,54,Rajshahi,Consumer,2021-07-06,customer284@email.com,8.3
+C0285,Rafi,Akter,Female,37,Rajshahi,Consumer,2021-08-12,customer285@email.com,9.9
+C0286,Tania,Rahman,Female,39,Dhaka,Consumer,2021-06-17,customer286@email.com,6.6
+C0287,Bristy,Ali,Male,44,Comilla,Small Business,2021-03-13,customer287@email.com,7.3
+C0288,Arif,Begum,Female,33,Narayanganj,Consumer,2021-02-22,customer288@email.com,8.6
+C0289,Arif,Ali,Male,57,Comilla,Government,2020-11-03,customer289@email.com,6.0
+C0290,Zahir,Hossain,Female,35,Barisal,Corporate,2020-05-17,customer290@email.com,9.3
+C0291,Nusrat,Uddin,Male,25,Rajshahi,Government,2021-01-14,customer291@email.com,7.1
+C0292,Karim,Khan,Male,59,Khulna,Government,2021-09-09,customer292@email.com,2.9
+C0293,Sadia,Ahmed,Male,34,Chittagong,Government,2020-12-06,customer293@email.com,9.2
+C0294,Mehrin,Hossain,Female,37,Barisal,Small Business,2021-12-13,customer294@email.com,4.4
+C0295,Mitu,Begum,Female,45,Narayanganj,Government,2021-06-30,customer295@email.com,1.9
+C0296,Rafi,Hossain,Female,42,Comilla,Corporate,2021-04-25,customer296@email.com,6.1
+C0297,Arif,Ahmed,Female,57,Comilla,Small Business,2020-08-14,customer297@email.com,2.4
+C0298,Tania,Rahman,Male,53,Barisal,Small Business,2020-12-03,customer298@email.com,7.9
+C0299,Nasrin,Ali,Male,44,Sylhet,Consumer,2021-05-15,customer299@email.com,7.5
+C0300,Sumaiya,Uddin,Male,55,Dhaka,Corporate,2021-05-15,customer300@email.com,9.5
+C0301,Karim,Ahmed,Female,30,Khulna,Corporate,2021-11-15,customer301@email.com,7.4
+C0302,Imran,Uddin,Female,45,Dhaka,Government,2020-01-10,customer302@email.com,6.9
+C0303,Rahim,Uddin,Female,22,Dhaka,Small Business,2020-01-17,customer303@email.com,5.8
+C0304,Rahim,Uddin,Female,33,Chittagong,Corporate,2020-10-20,customer304@email.com,5.7
+C0305,Imran,Akter,Female,44,Rajshahi,Government,2020-09-03,customer305@email.com,1.7
+C0306,Babu,Akter,Male,36,Rajshahi,Corporate,2021-02-19,customer306@email.com,6.9
+C0307,Karim,Khan,Female,46,Comilla,Government,2021-10-27,customer307@email.com,1.5
+C0308,Sumaiya,Khan,Female,49,Barisal,Corporate,2020-01-10,customer308@email.com,9.1
+C0309,Tania,Hossain,Female,39,Dhaka,Corporate,2020-02-13,customer309@email.com,7.2
+C0310,Bristy,Akter,Male,33,Barisal,Corporate,2020-10-14,customer310@email.com,9.7
+C0311,Arif,Rahman,Male,41,Sylhet,Consumer,2021-08-24,customer311@email.com,6.1
+C0312,Bristy,Chowdhury,Female,30,Chittagong,Small Business,2021-02-02,customer312@email.com,1.5
+C0313,Tania,Khan,Female,60,Comilla,Small Business,2021-03-23,customer313@email.com,1.3
+C0314,Babu,Ali,Male,44,Comilla,Government,2020-10-06,customer314@email.com,2.7
+C0315,Zahir,Khan,Female,37,Chittagong,Corporate,2021-08-22,customer315@email.com,3.4
+C0316,Arif,Rahman,Female,45,Chittagong,Corporate,2021-01-24,customer316@email.com,1.0
+C0317,Babu,Chowdhury,Female,28,Sylhet,Corporate,2020-11-11,customer317@email.com,2.7
+C0318,Bristy,Uddin,Female,28,Dhaka,Corporate,2021-04-04,customer318@email.com,4.2
+C0319,Mehrin,Akter,Female,46,Dhaka,Small Business,2020-04-05,customer319@email.com,4.7
+C0320,Bristy,Hossain,Male,65,Comilla,Consumer,2020-03-27,customer320@email.com,2.2
+C0321,Hasan,Ali,Male,26,Sylhet,Government,2020-11-04,customer321@email.com,3.5
+C0322,Nasrin,Khan,Female,38,Khulna,Government,2020-11-02,customer322@email.com,6.3
+C0323,Babu,Khan,Male,41,Dhaka,Government,2020-07-19,customer323@email.com,4.0
+C0324,Zahir,Chowdhury,Female,43,Comilla,Consumer,2021-09-27,customer324@email.com,3.7
+C0325,Imran,Ali,Female,33,Comilla,Small Business,2021-09-09,customer325@email.com,3.6
+C0326,Nasrin,Akter,Male,42,Comilla,Small Business,2021-12-12,customer326@email.com,8.3
+C0327,Mitu,Khan,Male,59,Sylhet,Corporate,2021-02-06,customer327@email.com,9.6
+C0328,Imran,Ali,Female,26,Comilla,Government,2021-04-17,customer328@email.com,2.3
+C0329,Tania,Begum,Male,49,Comilla,Corporate,2020-11-06,customer329@email.com,5.0
+C0330,Nasrin,Akter,Female,56,Comilla,Corporate,2021-09-04,customer330@email.com,8.1
+C0331,Bristy,Akter,Male,28,Khulna,Small Business,2021-01-03,customer331@email.com,2.5
+C0332,Karim,Akter,Female,43,Comilla,Corporate,2021-09-19,customer332@email.com,1.1
+C0333,Tania,Uddin,Male,50,Barisal,Government,2020-09-21,customer333@email.com,5.2
+C0334,Shakib,Uddin,Male,44,Dhaka,Government,2021-11-26,customer334@email.com,1.9
+C0335,Nusrat,Khan,Male,44,Rajshahi,Small Business,2021-03-01,customer335@email.com,5.1
+C0336,Pavel,Ali,Female,52,Chittagong,Government,2020-07-30,customer336@email.com,7.5
+C0337,Rafi,Khan,Female,24,Chittagong,Corporate,2021-04-08,customer337@email.com,8.6
+C0338,Fatima,Islam,Male,55,Sylhet,Consumer,2021-10-25,customer338@email.com,4.0
+C0339,Babu,Hossain,Female,62,Sylhet,Consumer,2021-03-12,customer339@email.com,6.8
+C0340,Zahir,Ahmed,Male,50,Comilla,Government,2021-03-18,customer340@email.com,1.0
+C0341,Imran,Begum,Male,58,Chittagong,Consumer,2020-08-07,customer341@email.com,4.3
+C0342,Babu,Khan,Female,64,Narayanganj,Small Business,2020-07-20,customer342@email.com,6.4
+C0343,Zahir,Akter,Male,44,Barisal,Government,2021-09-17,customer343@email.com,6.6
+C0344,Sadia,Akter,Male,65,Sylhet,Small Business,2021-11-20,customer344@email.com,2.1
+C0345,Fatima,Islam,Female,31,Comilla,Government,2020-11-08,customer345@email.com,6.4
+C0346,Zahir,Rahman,Male,53,Sylhet,Consumer,2021-08-11,customer346@email.com,5.4
+C0347,Sumaiya,Chowdhury,Female,61,Dhaka,Small Business,2020-05-23,customer347@email.com,9.6
+C0348,Arif,Hossain,Female,57,Narayanganj,Government,2021-05-11,customer348@email.com,7.2
+C0349,Babu,Ali,Male,27,Dhaka,Consumer,2021-03-01,customer349@email.com,3.6
+C0350,Tania,Uddin,Female,32,Narayanganj,Government,2020-10-08,customer350@email.com,5.9
+C0351,Shakib,Khan,Female,56,Barisal,Corporate,2020-04-25,customer351@email.com,7.8
+C0352,Bristy,Hossain,Female,28,Khulna,Small Business,2021-03-27,customer352@email.com,8.9
+C0353,Babu,Begum,Female,27,Narayanganj,Corporate,2020-02-03,customer353@email.com,8.0
+C0354,Imran,Akter,Female,61,Comilla,Consumer,2020-08-30,customer354@email.com,6.5
+C0355,Imran,Ahmed,Female,56,Rajshahi,Consumer,2020-07-30,customer355@email.com,3.9
+C0356,Sadia,Begum,Female,54,Chittagong,Consumer,2021-12-21,customer356@email.com,9.7
+C0357,Karim,Begum,Male,30,Khulna,Consumer,2021-02-25,customer357@email.com,7.4
+C0358,Zahir,Ali,Male,58,Rajshahi,Government,2020-09-10,customer358@email.com,4.4
+C0359,Nusrat,Rahman,Female,45,Narayanganj,Government,2020-03-18,customer359@email.com,3.9
+C0360,Nusrat,Ali,Female,26,Comilla,Consumer,2020-01-03,customer360@email.com,9.7
+C0361,Nasrin,Begum,Female,40,Barisal,Consumer,2020-08-04,customer361@email.com,6.1
+C0362,Rafi,Ahmed,Male,28,Narayanganj,Corporate,2021-05-11,customer362@email.com,2.1
+C0363,Babu,Ali,Male,49,Khulna,Consumer,2020-06-10,customer363@email.com,8.9
+C0364,Sumaiya,Begum,Male,63,Barisal,Small Business,2020-11-05,customer364@email.com,1.7
+C0365,Sumaiya,Ahmed,Female,62,Rajshahi,Consumer,2021-11-11,customer365@email.com,4.9
+C0366,Fatima,Ahmed,Male,52,Chittagong,Consumer,2020-04-03,customer366@email.com,6.3
+C0367,Babu,Ahmed,Male,43,Chittagong,Government,2021-06-15,customer367@email.com,7.2
+C0368,Nusrat,Hossain,Female,27,Chittagong,Corporate,2021-05-04,customer368@email.com,3.8
+C0369,Arif,Rahman,Male,63,Sylhet,Corporate,2020-11-02,customer369@email.com,5.8
+C0370,Mehrin,Islam,Female,44,Khulna,Consumer,2020-01-09,customer370@email.com,9.3
+C0371,Babu,Hossain,Male,28,Sylhet,Corporate,2021-09-22,customer371@email.com,6.3
+C0372,Mitu,Rahman,Female,30,Khulna,Small Business,2021-01-28,customer372@email.com,6.8
+C0373,Bristy,Akter,Female,23,Rajshahi,Consumer,2020-09-11,customer373@email.com,5.7
+C0374,Imran,Rahman,Female,63,Dhaka,Consumer,2021-06-05,customer374@email.com,5.5
+C0375,Tania,Ali,Male,55,Dhaka,Small Business,2020-04-25,customer375@email.com,9.4
+C0376,Zahir,Akter,Female,45,Sylhet,Government,2020-05-15,customer376@email.com,9.6
+C0377,Rahim,Akter,Male,22,Rajshahi,Consumer,2020-03-15,customer377@email.com,1.4
+C0378,Zahir,Uddin,Female,62,Comilla,Government,2020-03-02,customer378@email.com,7.3
+C0379,Bristy,Uddin,Male,39,Chittagong,Small Business,2020-03-25,customer379@email.com,1.7
+C0380,Arif,Uddin,Female,47,Chittagong,Small Business,2020-07-27,customer380@email.com,7.3
+C0381,Karim,Hossain,Male,49,Chittagong,Government,2020-09-01,customer381@email.com,6.5
+C0382,Sadia,Islam,Male,22,Sylhet,Corporate,2020-02-26,customer382@email.com,2.5
+C0383,Pavel,Uddin,Female,32,Barisal,Consumer,2020-12-21,customer383@email.com,7.7
+C0384,Fatima,Ahmed,Female,49,Rajshahi,Corporate,2020-10-02,customer384@email.com,3.4
+C0385,Nusrat,Ali,Female,54,Barisal,Corporate,2021-08-13,customer385@email.com,5.5
+C0386,Sumaiya,Chowdhury,Male,38,Chittagong,Corporate,2021-08-03,customer386@email.com,3.1
+C0387,Rahim,Ahmed,Male,37,Dhaka,Government,2021-06-05,customer387@email.com,4.3
+C0388,Sumaiya,Ahmed,Female,36,Barisal,Consumer,2020-06-02,customer388@email.com,4.7
+C0389,Hasan,Khan,Female,29,Dhaka,Consumer,2020-11-23,customer389@email.com,3.0
+C0390,Karim,Rahman,Male,51,Rajshahi,Small Business,2021-06-12,customer390@email.com,3.9
+C0391,Babu,Ahmed,Female,34,Rajshahi,Small Business,2021-07-20,customer391@email.com,7.7
+C0392,Babu,Chowdhury,Female,34,Khulna,Consumer,2020-09-05,customer392@email.com,1.1
+C0393,Rahim,Hossain,Female,62,Dhaka,Small Business,2021-02-23,customer393@email.com,1.0
+C0394,Zahir,Begum,Male,35,Khulna,Government,2021-11-04,customer394@email.com,5.4
+C0395,Arif,Begum,Male,24,Khulna,Government,2020-03-02,customer395@email.com,7.3
+C0396,Babu,Khan,Male,54,Sylhet,Government,2021-01-16,customer396@email.com,1.7
+C0397,Karim,Rahman,Male,37,Rajshahi,Small Business,2021-08-04,customer397@email.com,8.7
+C0398,Rafi,Chowdhury,Female,39,Khulna,Corporate,2021-02-06,customer398@email.com,9.5
+C0399,Shakib,Khan,Male,28,Sylhet,Government,2020-05-19,customer399@email.com,5.2
+C0400,Fatima,Uddin,Female,35,Narayanganj,Small Business,2021-02-20,customer400@email.com,5.2
+C0401,Nusrat,Islam,Female,60,Dhaka,Consumer,2020-05-02,customer401@email.com,8.5
+C0402,Arif,Khan,Male,44,Comilla,Corporate,2020-12-01,customer402@email.com,7.1
+C0403,Sumaiya,Ahmed,Female,50,Khulna,Corporate,2020-09-23,customer403@email.com,5.2
+C0404,Fatima,Ahmed,Male,36,Sylhet,Consumer,2020-05-23,customer404@email.com,8.4
+C0405,Nusrat,Akter,Female,26,Dhaka,Corporate,2021-01-16,customer405@email.com,2.8
+C0406,Babu,Islam,Male,43,Chittagong,Corporate,2021-10-23,customer406@email.com,9.5
+C0407,Sumaiya,Akter,Female,47,Narayanganj,Corporate,2020-02-21,customer407@email.com,4.4
+C0408,Sumaiya,Chowdhury,Male,33,Rajshahi,Small Business,2021-03-12,customer408@email.com,5.0
+C0409,Karim,Akter,Male,63,Rajshahi,Government,2020-06-01,customer409@email.com,4.7
+C0410,Nasrin,Ahmed,Male,39,Comilla,Consumer,2021-07-17,customer410@email.com,4.8
+C0411,Pavel,Hossain,Male,46,Barisal,Government,2021-10-20,customer411@email.com,5.9
+C0412,Mitu,Akter,Female,46,Rajshahi,Consumer,2021-05-11,customer412@email.com,1.2
+C0413,Tania,Ahmed,Female,25,Narayanganj,Small Business,2021-09-03,customer413@email.com,7.9
+C0414,Sumaiya,Khan,Male,64,Khulna,Small Business,2020-08-26,customer414@email.com,5.8
+C0415,Tania,Akter,Female,44,Sylhet,Consumer,2020-02-27,customer415@email.com,3.1
+C0416,Mitu,Akter,Male,44,Sylhet,Consumer,2020-11-21,customer416@email.com,8.5
+C0417,Bristy,Begum,Male,53,Dhaka,Corporate,2021-05-19,customer417@email.com,1.5
+C0418,Tania,Ahmed,Female,22,Barisal,Consumer,2021-09-08,customer418@email.com,8.3
+C0419,Sumaiya,Chowdhury,Male,23,Sylhet,Consumer,2020-12-14,customer419@email.com,8.0
+C0420,Mitu,Khan,Female,64,Comilla,Corporate,2021-06-22,customer420@email.com,4.0
+C0421,Arif,Islam,Female,62,Narayanganj,Small Business,2020-11-26,customer421@email.com,2.6
+C0422,Mehrin,Chowdhury,Male,64,Sylhet,Government,2021-07-29,customer422@email.com,3.8
+C0423,Sadia,Islam,Male,22,Comilla,Corporate,2021-12-06,customer423@email.com,2.6
+C0424,Mehrin,Hossain,Male,53,Sylhet,Small Business,2020-11-21,customer424@email.com,7.7
+C0425,Mitu,Chowdhury,Male,62,Chittagong,Small Business,2020-08-31,customer425@email.com,5.0
+C0426,Imran,Hossain,Male,44,Rajshahi,Corporate,2020-09-28,customer426@email.com,7.5
+C0427,Zahir,Ali,Female,32,Comilla,Government,2020-02-19,customer427@email.com,8.9
+C0428,Bristy,Rahman,Male,52,Khulna,Consumer,2020-12-25,customer428@email.com,5.1
+C0429,Sadia,Ahmed,Female,38,Chittagong,Corporate,2020-02-04,customer429@email.com,4.1
+C0430,Sumaiya,Khan,Male,43,Narayanganj,Corporate,2021-01-19,customer430@email.com,4.9
+C0431,Sumaiya,Akter,Female,32,Dhaka,Corporate,2021-10-31,customer431@email.com,4.0
+C0432,Riya,Uddin,Female,64,Rajshahi,Small Business,2020-07-13,customer432@email.com,3.1
+C0433,Zahir,Akter,Female,31,Dhaka,Small Business,2020-02-20,customer433@email.com,1.0
+C0434,Sadia,Akter,Female,34,Chittagong,Corporate,2020-03-30,customer434@email.com,2.9
+C0435,Sadia,Khan,Female,29,Rajshahi,Government,2021-10-15,customer435@email.com,5.2
+C0436,Hasan,Khan,Female,33,Barisal,Government,2021-11-07,customer436@email.com,4.3
+C0437,Karim,Begum,Female,51,Rajshahi,Consumer,2021-04-01,customer437@email.com,8.5
+C0438,Karim,Islam,Male,27,Barisal,Government,2021-07-31,customer438@email.com,9.7
+C0439,Tania,Uddin,Male,46,Comilla,Government,2021-08-26,customer439@email.com,6.2
+C0440,Nasrin,Begum,Male,47,Dhaka,Consumer,2020-08-29,customer440@email.com,2.1
+C0441,Sumaiya,Islam,Male,34,Sylhet,Corporate,2021-04-04,customer441@email.com,4.8
+C0442,Riya,Hossain,Male,60,Rajshahi,Small Business,2021-11-30,customer442@email.com,9.2
+C0443,Nusrat,Rahman,Female,57,Barisal,Small Business,2020-03-09,customer443@email.com,5.7
+C0444,Mehrin,Akter,Female,29,Comilla,Consumer,2020-01-13,customer444@email.com,2.3
+C0445,Shakib,Khan,Male,58,Chittagong,Small Business,2021-08-25,customer445@email.com,8.8
+C0446,Riya,Begum,Female,63,Narayanganj,Government,2020-12-18,customer446@email.com,1.3
+C0447,Zahir,Islam,Female,24,Comilla,Small Business,2020-10-09,customer447@email.com,7.2
+C0448,Nasrin,Begum,Female,23,Barisal,Small Business,2020-02-20,customer448@email.com,3.8
+C0449,Fatima,Hossain,Male,41,Narayanganj,Small Business,2021-05-18,customer449@email.com,3.4
+C0450,Mehrin,Khan,Male,50,Khulna,Government,2021-03-02,customer450@email.com,7.7
+C0451,Mitu,Ahmed,Male,26,Rajshahi,Government,2021-06-12,customer451@email.com,2.2
+C0452,Shakib,Ahmed,Male,34,Khulna,Corporate,2021-06-20,customer452@email.com,3.2
+C0453,Karim,Chowdhury,Male,39,Barisal,Government,2021-04-12,customer453@email.com,5.5
+C0454,Fatima,Ahmed,Male,45,Narayanganj,Government,2021-10-12,customer454@email.com,2.6
+C0455,Shakib,Uddin,Female,44,Sylhet,Small Business,2021-04-30,customer455@email.com,7.7
+C0456,Nusrat,Begum,Male,46,Dhaka,Consumer,2021-12-06,customer456@email.com,8.7
+C0457,Tania,Hossain,Male,39,Comilla,Corporate,2020-08-07,customer457@email.com,8.8
+C0458,Rahim,Ali,Male,63,Sylhet,Corporate,2021-11-29,customer458@email.com,3.0
+C0459,Sadia,Begum,Female,46,Barisal,Government,2021-09-14,customer459@email.com,3.3
+C0460,Sadia,Uddin,Female,59,Chittagong,Corporate,2021-04-22,customer460@email.com,5.6
+C0461,Mitu,Uddin,Female,41,Chittagong,Government,2021-11-09,customer461@email.com,1.6
+C0462,Rafi,Begum,Female,63,Rajshahi,Consumer,2020-10-10,customer462@email.com,2.3
+C0463,Karim,Akter,Female,64,Barisal,Consumer,2020-09-03,customer463@email.com,7.5
+C0464,Nasrin,Begum,Female,48,Comilla,Government,2021-11-02,customer464@email.com,7.6
+C0465,Shakib,Hossain,Female,36,Narayanganj,Small Business,2021-08-20,customer465@email.com,5.6
+C0466,Bristy,Islam,Female,28,Narayanganj,Consumer,2020-06-23,customer466@email.com,7.7
+C0467,Sumaiya,Chowdhury,Male,36,Barisal,Consumer,2021-07-26,customer467@email.com,7.7
+C0468,Riya,Chowdhury,Female,38,Rajshahi,Government,2020-11-10,customer468@email.com,8.7
+C0469,Karim,Akter,Male,52,Khulna,Corporate,2021-04-26,customer469@email.com,8.8
+C0470,Pavel,Begum,Female,25,Sylhet,Consumer,2021-01-25,customer470@email.com,9.9
+C0471,Riya,Akter,Female,31,Barisal,Consumer,2020-12-16,customer471@email.com,8.0
+C0472,Rafi,Islam,Female,62,Dhaka,Corporate,2021-05-14,customer472@email.com,5.1
+C0473,Sumaiya,Akter,Male,53,Chittagong,Consumer,2020-08-02,customer473@email.com,6.5
+C0474,Riya,Rahman,Female,52,Comilla,Corporate,2021-10-10,customer474@email.com,1.3
+C0475,Mitu,Ahmed,Female,55,Khulna,Corporate,2020-07-23,customer475@email.com,7.1
+C0476,Tania,Hossain,Female,41,Sylhet,Corporate,2021-10-03,customer476@email.com,4.5
+C0477,Sadia,Islam,Male,24,Rajshahi,Small Business,2021-08-25,customer477@email.com,5.1
+C0478,Mehrin,Uddin,Female,49,Sylhet,Small Business,2021-06-16,customer478@email.com,10.0
+C0479,Mitu,Hossain,Male,47,Dhaka,Consumer,2021-05-16,customer479@email.com,3.0
+C0480,Imran,Ahmed,Male,29,Barisal,Corporate,2020-05-14,customer480@email.com,4.4
+C0481,Hasan,Uddin,Male,60,Dhaka,Corporate,2021-10-17,customer481@email.com,6.9
+C0482,Karim,Khan,Female,50,Comilla,Corporate,2020-01-21,customer482@email.com,5.9
+C0483,Arif,Hossain,Male,41,Comilla,Corporate,2021-04-30,customer483@email.com,7.0
+C0484,Mehrin,Akter,Male,48,Chittagong,Corporate,2020-10-03,customer484@email.com,3.5
+C0485,Nasrin,Hossain,Male,38,Khulna,Small Business,2020-04-18,customer485@email.com,7.3
+C0486,Sumaiya,Ahmed,Female,35,Narayanganj,Small Business,2020-10-29,customer486@email.com,3.1
+C0487,Nusrat,Khan,Female,31,Chittagong,Corporate,2020-01-14,customer487@email.com,7.5
+C0488,Hasan,Hossain,Female,40,Rajshahi,Government,2020-04-13,customer488@email.com,1.5
+C0489,Karim,Begum,Female,65,Barisal,Government,2020-06-27,customer489@email.com,7.6
+C0490,Karim,Ahmed,Male,64,Sylhet,Small Business,2020-04-07,customer490@email.com,4.2
+C0491,Mehrin,Begum,Male,45,Barisal,Consumer,2021-03-24,customer491@email.com,2.0
+C0492,Babu,Begum,Female,52,Comilla,Consumer,2021-02-13,customer492@email.com,2.0
+C0493,Karim,Islam,Male,48,Narayanganj,Government,2021-12-13,customer493@email.com,2.6
+C0494,Mitu,Akter,Male,65,Sylhet,Government,2021-01-23,customer494@email.com,9.3
+C0495,Riya,Ali,Male,26,Rajshahi,Small Business,2020-04-25,customer495@email.com,1.1
+C0496,Pavel,Akter,Male,64,Barisal,Corporate,2021-11-25,customer496@email.com,4.9
+C0497,Nasrin,Chowdhury,Female,31,Dhaka,Corporate,2020-09-11,customer497@email.com,6.8
+C0498,Pavel,Ali,Female,32,Chittagong,Government,2020-06-09,customer498@email.com,3.9
+C0499,Hasan,Ahmed,Male,57,Comilla,Government,2020-12-04,customer499@email.com,8.4
+C0500,Babu,Ali,Female,27,Narayanganj,Government,2020-03-21,customer500@email.com,3.8

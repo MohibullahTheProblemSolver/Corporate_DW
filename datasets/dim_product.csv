@@ -1,0 +1,41 @@
+product_id,product_name,category,sub_category,brand,unit_cost,unit_price,supplier_country,launch_year
+P001,Laptop,Electronics,Laptop,Samsung,4904.32,6287.9,USA,2018
+P002,Smartphone,Electronics,Smartphone,Samsung,2807.8,5224.55,India,2022
+P003,Tablet,Electronics,Tablet,ACI,2833.55,5554.56,India,2018
+P004,Headphones,Electronics,Headphones,ACI,4092.11,5997.31,USA,2023
+P005,Smart Watch,Electronics,Smart Watch,ACI,3302.98,4264.87,China,2018
+P006,Printer,Electronics,Printer,Unilever,1739.72,2849.93,India,2023
+P007,Monitor,Electronics,Monitor,Walton,576.3,918.59,USA,2018
+P008,Keyboard,Electronics,Keyboard,Singer,1308.73,1766.83,USA,2019
+P009,T-Shirt,Clothing,T-Shirt,Singer,2312.38,4100.84,Bangladesh,2021
+P010,Jeans,Clothing,Jeans,Transcom,280.18,363.83,USA,2021
+P011,Jacket,Clothing,Jacket,Bashundhara,3309.36,4327.68,USA,2018
+P012,Suit,Clothing,Suit,Samsung,2675.3,4394.4,USA,2022
+P013,Saree,Clothing,Saree,Bashundhara,2440.51,4453.6,China,2023
+P014,Panjabi,Clothing,Panjabi,Walton,2913.84,3738.0,India,2022
+P015,Dress,Clothing,Dress,RFL,4412.88,8753.39,China,2020
+P016,Sneakers,Clothing,Sneakers,Pran,2019.46,3991.25,USA,2019
+P017,Blender,Home & Kitchen,Blender,Transcom,733.99,1291.83,India,2023
+P018,Rice Cooker,Home & Kitchen,Rice Cooker,Pran,2761.64,4886.72,China,2019
+P019,Refrigerator,Home & Kitchen,Refrigerator,Unilever,1088.08,1903.37,China,2023
+P020,Microwave,Home & Kitchen,Microwave,Walton,3267.93,5238.87,India,2023
+P021,Cookware Set,Home & Kitchen,Cookware Set,Pran,621.26,1024.97,USA,2023
+P022,Fan,Home & Kitchen,Fan,Bashundhara,3751.95,5360.57,USA,2018
+P023,Iron,Home & Kitchen,Iron,Samsung,2637.51,3968.65,Bangladesh,2023
+P024,Vacuum,Home & Kitchen,Vacuum,Unilever,330.19,594.39,China,2020
+P025,Notebook,Books & Office,Notebook,Walton,3432.78,6424.47,India,2019
+P026,Pen Set,Books & Office,Pen Set,Samsung,3780.29,5621.09,USA,2018
+P027,Planner,Books & Office,Planner,Bashundhara,3099.74,5864.31,USA,2019
+P028,Textbook,Books & Office,Textbook,Unilever,2579.07,4524.59,Bangladesh,2021
+P029,Fiction Novel,Books & Office,Fiction Novel,Pran,1968.4,3883.0,Bangladesh,2018
+P030,Printer Paper,Books & Office,Printer Paper,Singer,3731.17,6329.74,USA,2019
+P031,Stapler,Books & Office,Stapler,Pran,4561.86,8229.99,China,2023
+P032,Marker Set,Books & Office,Marker Set,Unilever,4823.23,7519.67,Bangladesh,2019
+P033,Face Wash,Health & Beauty,Face Wash,Bashundhara,4814.25,6236.78,Bangladesh,2021
+P034,Shampoo,Health & Beauty,Shampoo,Unilever,1431.61,1866.9,India,2018
+P035,Vitamin Supplements,Health & Beauty,Vitamin Supplements,Walton,1686.29,2077.43,India,2022
+P036,Hand Cream,Health & Beauty,Hand Cream,Transcom,301.73,565.6,India,2021
+P037,Perfume,Health & Beauty,Perfume,Bashundhara,3960.05,5886.49,India,2022
+P038,Sunscreen,Health & Beauty,Sunscreen,Walton,1138.81,1840.87,China,2021
+P039,Toothbrush,Health & Beauty,Toothbrush,RFL,2738.25,3487.32,China,2019
+P040,Body Lotion,Health & Beauty,Body Lotion,Pran,3333.51,4962.39,China,2022
