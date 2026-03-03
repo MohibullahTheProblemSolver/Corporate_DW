@@ -1,0 +1,33 @@
+USE master;
+
+GO
+
+IF EXISTS(
+SELECT
+*
+FROM sys.databases
+WHERE name = 'Corporate_DW'
+)
+BEGIN
+	ALTER DATABASE Corporate_DW SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+	DROP DATABASE Corporate_DW
+END;
+
+GO
+CREATE DATABASE Corporate_DW;
+GO
+USE Corporate_DW;
+
+GO
+
+CREATE SCHEMA bronze
+
+GO
+
+CREATE SCHEMA silver
+
+GO
+
+CREATE SCHEMA gold
+
+GO
